@@ -9,7 +9,7 @@
 <p>
 Hey there :clap: <br>
 
-I'm Hui (Henry) Chen, a senior Computer Science student at NYIT interest in Backend Development, Big Data Management and Analytics, ML/ DL, and cloud. I love to explorer new tools or technologies in the market in order to make my projects or organization more productive.<br>
+I'm Hui (Henry) Chen, a senior Computer Science student at NYIT interest in Backend Development, Big Data Management and Analytics, ML/ DL, and AWS. I love to explorer new tools or technologies in the market in order to make my projects or organization more productive.<br>
 
 Want to know more about me? <a href="https://hchen98.github.io/" target="_blank">Check out my portfolio.</a>
 </p>
