@@ -21,12 +21,11 @@ jobs:
 
       - name: Add to git repo
         run: |
-          git config pull.rebase false
           git pull
           git add .
           git config --global user.name "hchen98"
           git config --global user.email "hhc879099766@gmail.com"
-          git commit -m "[Automated] README updated with new Office quote!"
+          git commit -m "[Automated] README update!"
       - name: Push
         uses: ad-m/github-push-action@master
         with:
