@@ -12,7 +12,7 @@ async function main(){
   ).toString("utf-8");
 
   // generate "README.md" file
-  await fs.writeFile("README.md", readme);
+  await fs.writeFile("README.md", readmeTemplate);
 }
 
 // run the main func
