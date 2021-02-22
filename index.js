@@ -11,7 +11,7 @@ async function main(){
     await fs.readFile(path.join(process.cwd(), "./README.template.md"))
   ).toString("utf-8");
 
-  // generate "README.md" file
+  // generate "README.md" file by replacing the content from "README.template.md"
   await fs.writeFile("README.md", readmeTemplate);
 }
 
