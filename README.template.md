@@ -22,6 +22,14 @@ Want to know more about me? <a href="https://hchen98.github.io/" target="_blank"
 
 
 
+<a href="https://github.com/hchen98/ML-Analysis_CCPP">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hchen98&repo=ML-Analysis_CCPP&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/hchen98/achoes">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hchen98&repo=achoes&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 <a href="https://github.com/MichaelTrzaskoma/455-ScholarshipRecommendation">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hchen98&repo=455-ScholarshipRecommendation&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -34,9 +42,6 @@ Want to know more about me? <a href="https://hchen98.github.io/" target="_blank"
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hchen98&repo=CSCI380_Nutrifetch&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/hchen98/NYIT-attendance-app">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hchen98&repo=NYIT-attendance-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
 <a href="https://github.com/hchen98/nxa">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hchen98&repo=nxa&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
