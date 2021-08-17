@@ -9,7 +9,7 @@
 <p>
 Hey there :clap: <br>
 
-I'm Hui (Henry) Chen, a senior Computer Science student at NYIT interest in Backend Development, Big Data Management and Analytics, ML/ DL, and AWS. I love to explorer new tools or technologies in the market in order to make my projects or organization more productive.<br>
+I'm Hui (Henry) Chen, an incoming M.S. in Data Science and love container technologies, ML/DL, Big Data, AWS, and anything related to that! I love to explorer new tools or technologies in the market in order to make my projects or organization more productive.<br>
 
 Want to know more about me? <a href="https://hchen98.github.io/" target="_blank">Check out my portfolio.</a>
 </p>
@@ -20,12 +20,10 @@ Want to know more about me? <a href="https://hchen98.github.io/" target="_blank"
 
 <!-- <!-- Pinned Repositories -- > -->
 
-<a href="https://github.com/hchen98/nxa">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hchen98&repo=nxa&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
-<a href="https://github.com/hchen98/csci426-project">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hchen98&repo=csci426-project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+
+<a href="https://github.com/MichaelTrzaskoma/455-ScholarshipRecommendation">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hchen98&repo=455-ScholarshipRecommendation&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/hchen98/DTSC701-project">
@@ -38,6 +36,10 @@ Want to know more about me? <a href="https://hchen98.github.io/" target="_blank"
 
 <a href="https://github.com/hchen98/NYIT-attendance-app">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hchen98&repo=NYIT-attendance-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/hchen98/nxa">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hchen98&repo=nxa&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
@@ -57,8 +59,8 @@ Want to know more about me? <a href="https://hchen98.github.io/" target="_blank"
 
 ## :briefcase: Skills
 
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=Flask&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=React_Native&logoColor=white&color=4AB197)
@@ -73,21 +75,23 @@ Want to know more about me? <a href="https://hchen98.github.io/" target="_blank"
 <details>
 <summary>More Skills</summary>
 
+![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
+
+![](https://img.shields.io/badge/Tool-Scikit_Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tool-selenium-informational?style=flat&logo=selenium&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tool-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=4AB197)
+
 ![](https://img.shields.io/badge/Web-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Web-html5-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Web-css3-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Web-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
-
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tool-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tool-Scikit_Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tool-selenium-informational?style=flat&logo=selenium&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tool-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tool-JWT-informational?style=flat&logo=JWT&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tool-Folium-informational?style=flat&logo=Folium&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tool-Raspberry_Pi-informational?style=flat&logo=Raspberry-pi&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tool-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=4AB197)
