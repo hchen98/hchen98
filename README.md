@@ -2,7 +2,7 @@
 
 
 
-[![Personal Site Badge](https://img.shields.io/badge/Personal%20Site-Visit-brightgreen)](https://hchen98.github.io/)
+[![Personal Site Badge](https://img.shields.io/badge/Personal%20Site-Visit-brightgreen)](https://hchen98.com/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hchen98/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/V58gjop)
 
@@ -11,7 +11,7 @@ Hey there :clap: <br>
 
 I'm Hui (Henry) Chen, love container technologies, ML/DL, Big Data, AWS, and anything related to that! I love to explorer new tools or technologies in the market in order to make my projects or organization more productive.<br>
 
-Want to know more about me? <a href="https://hchen98.github.io/" target="_blank">Check out my personal site!</a>
+Want to know more about me? <a href="https://hchen98.com/" target="_blank">Check out my personal site!</a>
 </p>
 
 
